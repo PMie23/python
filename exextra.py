@@ -1,0 +1,5 @@
+valor = float(input("Qual é o valor do produto? R$"))
+debito = valor - (valor * 5 / 100)
+credito = valor + (valor * 8 / 100)
+print('O produto que custa R${:.2f}, no débito com 5% de desconto, custará a vista R${:.2f}.'.format(valor, debito))
+print('O produto que custa R${:.2f}, com acréscimo de 8% no cartão de crédito, custará a prazo R${:.2f}.'.format(valor, credito))
