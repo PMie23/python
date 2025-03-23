@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c72ad3-53ba-4fa7-bb86-1ff5c40cfa33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex031c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex033b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex034b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex037b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +68,9 @@
     "Python.aula10ex003.executor": "Run",
     "Python.aula10ex004.executor": "Run",
     "Python.aula10ex005.executor": "Run",
+    "Python.aula11ex001.executor": "Run",
+    "Python.aula11ex002.executor": "Run",
+    "Python.aula12ex001.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex001b.executor": "Run",
     "Python.ex019.executor": "Run",
@@ -87,13 +92,21 @@
     "Python.ex032.executor": "Run",
     "Python.ex033.executor": "Run",
     "Python.ex033b.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex034b.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex037b.executor": "Run",
+    "Python.excores.executor": "Run",
+    "Python.prova.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex033b">
-    <configuration name="ex031b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex037b">
+    <configuration name="aula12ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex031b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula12ex001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex031c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex031c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex036.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex032.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex037.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex037b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex033.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex037b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex033b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prova" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex033b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prova.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex033b" />
-        <item itemvalue="Python.ex033" />
-        <item itemvalue="Python.ex032" />
-        <item itemvalue="Python.ex031c" />
-        <item itemvalue="Python.ex031b" />
+        <item itemvalue="Python.ex037b" />
+        <item itemvalue="Python.ex037" />
+        <item itemvalue="Python.ex036" />
+        <item itemvalue="Python.aula12ex001" />
+        <item itemvalue="Python.prova" />
       </list>
     </recent_temporary>
   </component>
