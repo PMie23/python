@@ -46,4 +46,3 @@ elif computador == 2: # PC jogou TESOURA
         print('JOGADA INVÁLIDA!')
 else:
     print('JOGADA INVÁLIDA!')
-    
