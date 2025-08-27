@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c72ad3-53ba-4fa7-bb86-1ff5c40cfa33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curiosidade1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex069b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex070b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +89,17 @@
     "Python.aula14.executor": "Run",
     "Python.aula14b.executor": "Run",
     "Python.aula14c.executor": "Run",
+    "Python.aula16ex001.executor": "Run",
+    "Python.aula16ex002.executor": "Run",
+    "Python.aula16ex003.executor": "Run",
+    "Python.aula16ex004.executor": "Run",
+    "Python.aula16ex005.executor": "Run",
+    "Python.aula16ex006.executor": "Run",
+    "Python.aula16ex007.executor": "Run",
+    "Python.aula16ex008.executor": "Run",
+    "Python.aula16ex009.executor": "Run",
+    "Python.aula16ex010.executor": "Run",
+    "Python.aula16ex011.executor": "Run",
     "Python.curiosidade1.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex001b.executor": "Run",
@@ -159,16 +177,22 @@
     "Python.ex067b.executor": "Run",
     "Python.ex068.executor": "Run",
     "Python.ex068b.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex069b.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex070b.executor": "Run",
+    "Python.ex071.executor": "Run",
     "Python.excores.executor": "Run",
+    "Python.exes.executor": "Run",
     "Python.prova.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex068b">
-    <configuration name="ex066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula16ex011">
+    <configuration name="aula16ex007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex066.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula16ex007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula16ex008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,7 +227,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex067.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula16ex008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex067b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula16ex009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex067b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula16ex009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula16ex010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +271,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex068.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula16ex010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex068b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula16ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +293,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex068b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula16ex011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex068b" />
-        <item itemvalue="Python.ex068" />
-        <item itemvalue="Python.ex067b" />
-        <item itemvalue="Python.ex067" />
-        <item itemvalue="Python.ex066" />
+        <item itemvalue="Python.aula16ex011" />
+        <item itemvalue="Python.aula16ex010" />
+        <item itemvalue="Python.aula16ex009" />
+        <item itemvalue="Python.aula16ex008" />
+        <item itemvalue="Python.aula16ex007" />
       </list>
     </recent_temporary>
   </component>
