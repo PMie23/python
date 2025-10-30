@@ -5,7 +5,7 @@ if ano == 0:
     #Importou o date para mostrar o ano de hoje.
 if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
     #A regra do ano bissexto é: ano divisíviel por 4, porém,
-    # exceções para os anos múltiplos de 100 que não são múltiplos de 400.
+    # Há exceções para os anos múltiplos de 100 que não são múltiplos de 400.
     print('O ano {} é BISSEXTO!'.format(ano))
 else:
     print('O ano {} NÃO é BISSEXTO!'.format(ano))
