@@ -5,39 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c72ad3-53ba-4fa7-bb86-1ff5c40cfa33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aua20escopodevariaveis2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20escopodevariaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20escopodevariaveis3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20escopodevariaveis4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula20return2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula21docstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula21parametrosopcionais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_mining_aula_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exclass1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula16ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula16ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,161 +61,169 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aua20escopodevariaveis2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula11ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula11ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13f.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13g.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13h.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16ex011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20escopodevariaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20escopodevariaveis3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20escopodevariaveis4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20return.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20return2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21docstring.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21parametrosopcionais.executor&quot;: &quot;Run&quot;,
-    &quot;Python.curiosidade1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex063b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex067b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex068b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex073.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exclass1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.excores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prova.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula15.executor": "Run",
+    "Python.Aula17.executor": "Run",
+    "Python.aua20escopodevariaveis2.executor": "Run",
+    "Python.aula10ex001.executor": "Run",
+    "Python.aula10ex002.executor": "Run",
+    "Python.aula10ex003.executor": "Run",
+    "Python.aula10ex004.executor": "Run",
+    "Python.aula10ex005.executor": "Run",
+    "Python.aula11ex001.executor": "Run",
+    "Python.aula11ex002.executor": "Run",
+    "Python.aula12ex001.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula13b.executor": "Run",
+    "Python.aula13c.executor": "Run",
+    "Python.aula13d.executor": "Run",
+    "Python.aula13e.executor": "Run",
+    "Python.aula13f.executor": "Run",
+    "Python.aula13g.executor": "Run",
+    "Python.aula13h.executor": "Run",
+    "Python.aula14.executor": "Run",
+    "Python.aula14b.executor": "Run",
+    "Python.aula14c.executor": "Run",
+    "Python.aula16ex001.executor": "Run",
+    "Python.aula16ex002.executor": "Run",
+    "Python.aula16ex003.executor": "Run",
+    "Python.aula16ex004.executor": "Run",
+    "Python.aula16ex005.executor": "Run",
+    "Python.aula16ex006.executor": "Run",
+    "Python.aula16ex007.executor": "Run",
+    "Python.aula16ex008.executor": "Run",
+    "Python.aula16ex009.executor": "Run",
+    "Python.aula16ex010.executor": "Run",
+    "Python.aula16ex011.executor": "Run",
+    "Python.aula17b.executor": "Run",
+    "Python.aula17c.executor": "Run",
+    "Python.aula17d.executor": "Run",
+    "Python.aula17e.executor": "Run",
+    "Python.aula20.executor": "Run",
+    "Python.aula20escopodevariaveis.executor": "Run",
+    "Python.aula20escopodevariaveis3.executor": "Run",
+    "Python.aula20escopodevariaveis4.executor": "Run",
+    "Python.aula20ex001.executor": "Run",
+    "Python.aula20ex002.executor": "Run",
+    "Python.aula20ex003.executor": "Run",
+    "Python.aula20ex004.executor": "Run",
+    "Python.aula20ex005.executor": "Run",
+    "Python.aula20ex006.executor": "Run",
+    "Python.aula20ex007.executor": "Run",
+    "Python.aula20ex008.executor": "Run",
+    "Python.aula20return.executor": "Run",
+    "Python.aula20return2.executor": "Run",
+    "Python.aula21docstring.executor": "Run",
+    "Python.aula21parametrosopcionais.executor": "Run",
+    "Python.curiosidade1.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex001b.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex019b.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex020b.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex031b.executor": "Run",
+    "Python.ex031c.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex033b.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex034b.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex037b.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex039b.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex041b.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex044b.executor": "Run",
+    "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex047b.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex052b.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex053b.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex058b.executor": "Run",
+    "Python.ex058c.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex059b.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex060b.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex061b.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex062b.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex063b.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex064b.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex065b.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex066b.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex067b.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex068b.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex069b.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex070b.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex072b.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex074b.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex075b.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
+    "Python.exclass1.executor": "Run",
+    "Python.excores.executor": "Run",
+    "Python.exes.executor": "Run",
+    "Python.exex.executor": "Run",
+    "Python.prova.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
-  <component name="RunManager" selected="Python.ex060">
-    <configuration name="ex060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.ex080">
+    <configuration name="aula17d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula17d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex060b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula17e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +258,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex060b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula17e.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex075b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex075b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex077.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex080.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex060" />
-        <item itemvalue="Python.ex060b" />
-        <item itemvalue="Python.ex077" />
-        <item itemvalue="Python.ex076" />
-        <item itemvalue="Python.ex075b" />
+        <item itemvalue="Python.ex080" />
+        <item itemvalue="Python.ex079" />
+        <item itemvalue="Python.ex078" />
+        <item itemvalue="Python.aula17e" />
+        <item itemvalue="Python.aula17d" />
       </list>
     </recent_temporary>
   </component>
